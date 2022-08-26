@@ -1,1 +1,1 @@
-My second readme is in progress
+My second readme is completed
