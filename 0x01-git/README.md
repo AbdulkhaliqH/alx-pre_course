@@ -1,1 +1,1 @@
-My second readme is completed
+My second readme completed
